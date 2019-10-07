@@ -49,6 +49,13 @@ input{
 	display: inline;
 }
 
+
+@media only screen and (max-width: 500px) {
+  .github{
+	display: hidden;
+}
+}
+
 .button{
 	font-family: 'Roboto Mono', monospace !important;
 	font-size: 2em;
