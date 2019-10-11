@@ -1,8 +1,8 @@
 ---
-layout: splash
-title: Starling
+layout: landing
+title: Starling - Decentralized Storage for Preservation
 ---
 
-## Simplified & coordinated decentralized storage on the Filecoin network
+# Simplified decentralized storage for preservation
 
-### Launches October 2019 - sign up for updates…
+
