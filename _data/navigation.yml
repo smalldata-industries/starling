@@ -1,18 +1,10 @@
-- name: Home
-  link: /starling
 - name: Overview
-  link: /starling/overview.html
+  link: overview.html
 - name: Getting Started
-  link: /starling/getting-started.html
-- name: CLI Guide
-  link: /starling/cli-guide.html
-- name: Contributing
-  link: /starling/contributing.html
-- name: FAQs and Troubleshooting
-  link: /starling/faqs-and-troubleshooting.html
-- name: Glossary
-  link: /starling/glossary.html
-- name: Credits
-  link: /starling/credits.html
-- name: License
-  link: /starling/license.html
+  link: getting-started.html
+- name: Commands
+  link: commands.html
+- name: FAQs
+  link: faq.html
+- name: Resources
+  link: resources.html
