@@ -1,3 +1,3 @@
-# Starling documentation
+# Starling Docs
 
-This repository is for the website and documentation of Starling, a decentralized storage application powered by Filecoin.
+This repo contains documentation for Starling, a decentralized storage application powered by Filecoin, hosted at [starlingstorage.io](https://starlingstorage.io/)
