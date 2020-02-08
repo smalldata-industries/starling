@@ -25,7 +25,7 @@ The short answer is: yes. Fixity is the assurance that data has remained unchang
 
 ### How can I contibute to Starling?
 
-There are many ways to contribute to to Starling. You can get involved on GitHub by [submitting bugs](https://github.com/filecoin-project/starling/issues), commentting on issues and [source code changes](https://github.com/filecoin-project/starling/pulls), and improve [this documentation website itself](https://github.com/smalldata-industries/starling-docs).
+There are many ways to contribute to to Starling. You can get involved on GitHub by [submitting bugs](https://github.com/filecoin-project/starling/issues), commenting on issues and [source code changes](https://github.com/filecoin-project/starling/pulls), and improve [this documentation website itself](https://github.com/smalldata-industries/starling-docs).
 
 
 ### I found a problem! Who do I tell?
